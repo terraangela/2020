@@ -1,2 +1,2 @@
-# 2020
-A compilation of projects (school or otherwise) from 2020
+# Classification in Music
+Exploring Spotofy's catalog data, particularly looking at their methods of song classification. 
